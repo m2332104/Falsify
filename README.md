@@ -40,15 +40,15 @@ You should have received a copy of the GNU General Public License along with thi
 
 Edit the section named "Configuration" and run the script
 
-テストをしたものの各バージョンは下記の通りになります。
-Package            Version
------------------- -------
-MATLAB             R2023a
-python             3.8.9
-chainer            7.7.0
-chainerrl          0.8.0
-gym                0.22.0
-
+- テストをしたものの各バージョンは下記の通りになります。
+- Package            Version
+- ------------------ -------
+- MATLAB             R2023a
+- python             3.8.9
+- chainer            7.7.0
+- chainerrl          0.8.0
+- gym                0.22.0
+- 
 filelock           3.12.4
 future             0.18.3
 

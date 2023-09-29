@@ -40,10 +40,29 @@ You should have received a copy of the GNU General Public License along with thi
 
 Edit the section named "Configuration" and run the script
 
-s-taliroに付属して必須及びオプションのMATLABパッケージ [s-taliroダウンロードページ](https://sites.google.com/a/asu.edu/s-taliro/s-taliro/download)。
+テストをしたものの各バージョンは下記の通りになります。
+Package            Version
+------------------ -------
+MATLAB             R2023a
+python             3.8.9
+chainer            7.7.0
+chainerrl          0.8.0
+gym                0.22.0
 
-- ロケーションガードまでの距離を含むハイブリッド距離メトリックの場合、MatlabパッケージMatlabBGLが必要です。
-- Powertrainのデモ例にはCheckMateが必要です。
-- Robust Testing Toolboxの実行に必要なツールボックス: Multi Parametric Toolbox(version 3.0.), Ellipsoidal Toolbox(version 1.1.2), CVX: Disciplined Convex Optimization(version 1.1.2.)
-- motion planning demosに必要なToolbox: Robotics Toolbox, Multi Parametric Toolbox
-- 並列シミュレーションには、  Matlab Parallel Computing Toolbox が必要です。
+filelock           3.12.4
+future             0.18.3
+
+s-taliroに付随して必須及びオプションのMATLABパッケージ [s-taliroダウンロードページ](https://sites.google.com/a/asu.edu/s-taliro/s-taliro/download)。
+
+### ロケーションガードまでの距離を含むハイブリッド距離メトリックの場合、MatlabパッケージMatlabBGLが必要です。
+### Powertrainのデモ例にはCheckMateが必要です。
+### Robust Testing Toolboxの実行に必要なツールボックス: 
+#### Multi Parametric Toolbox(version 3.0.)
+#### Ellipsoidal Toolbox(version 1.1.2)
+#### CVX: Disciplined Convex Optimization(version 1.1.2.)
+### motion planning demosに必要なToolbox:
+#### Robotics Toolbox
+#### Multi Parametric Toolbox
+### 並列シミュレーションには、Matlab Parallel Computing Toolbox が必要です。
+
+

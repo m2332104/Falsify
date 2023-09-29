@@ -54,15 +54,15 @@ future             0.18.3
 
 s-taliroに付随して必須及びオプションのMATLABパッケージ [s-taliroダウンロードページ](https://sites.google.com/a/asu.edu/s-taliro/s-taliro/download)。
 
-### ロケーションガードまでの距離を含むハイブリッド距離メトリックの場合、MatlabパッケージMatlabBGLが必要です。
-### Powertrainのデモ例にはCheckMateが必要です。
-### Robust Testing Toolboxの実行に必要なツールボックス: 
-#### Multi Parametric Toolbox(version 3.0.)
-#### Ellipsoidal Toolbox(version 1.1.2)
-#### CVX: Disciplined Convex Optimization(version 1.1.2.)
-### motion planning demosに必要なToolbox:
-#### Robotics Toolbox
-#### Multi Parametric Toolbox
-### 並列シミュレーションには、Matlab Parallel Computing Toolbox が必要です。
+ ロケーションガードまでの距離を含むハイブリッド距離メトリックの場合、MatlabパッケージMatlabBGLが必要です。
+ Powertrainのデモ例にはCheckMateが必要です。
+ Robust Testing Toolboxの実行に必要なツールボックス: 
+> Multi Parametric Toolbox(version 3.0.)
+> Ellipsoidal Toolbox(version 1.1.2)
+> CVX: Disciplined Convex Optimization(version 1.1.2.)
+ motion planning demosに必要なToolbox:
+> Robotics Toolbox
+> Multi Parametric Toolbox
+ 並列シミュレーションには、Matlab Parallel Computing Toolbox が必要です。
 
 
